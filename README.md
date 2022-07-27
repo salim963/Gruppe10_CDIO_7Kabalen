@@ -1,9 +1,5 @@
 
-
-
-![solitaire](https://user-images.githubusercontent.com/70900247/181368273-d419484f-0d98-4a71-8076-f9b6cca3a01d.png)
-
-
+https://www.youtube.com/watch?v=gG8CEqbUMtY&ab_channel=SalimOmar
 
 
 # TensorFlow Lite Object Detection Android Demo
